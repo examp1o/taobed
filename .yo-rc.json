@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "taobed",
+    "packageName": "com.taobed.wool",
+    "packageFolder": "com/taobed/wool",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NTIyZmQyY2ViZmQzMzQ0ZTlhNGE3NTYxODc3OGUyNWI3MjBkZGEwOGIxYjA5ZGZjZDRhNGQyNTE5NDY3MjNkZDdjM2FiZDM5YzkzOTZhNzUwYjkzMWU3Y2ZhM2E3MTI4YTQ1MDMxYTg3YzFlZTQ4YWFmMmExZGQ0OTdmZmFmOTM=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "examp1o",
+  "repository-name": "taobed"
+}
